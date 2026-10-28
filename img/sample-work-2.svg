@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Sample work 2: educational placeholder">
+<rect width="600" height="400" fill="#18222e"/><rect x="45" y="45" width="510" height="310" rx="14" fill="#f1f5f9"/>
+<path d="M59 45h482q14 0 14 14v34H45V59q0-14 14-14" fill="#449c84"/><circle cx="72" cy="68" r="6" fill="white"/>
+<rect x="70" y="118" width="145" height="136" rx="8" fill="#449c84" opacity=".8"/><rect x="240" y="120" width="265" height="16" rx="8" fill="#52677d"/>
+<rect x="240" y="154" width="218" height="10" rx="5" fill="#c1cbd5"/><rect x="240" y="179" width="250" height="10" rx="5" fill="#c1cbd5"/>
+<text x="70" y="306" font-family="Arial,sans-serif" font-size="25" fill="#27384a">SAMPLE WORK 02</text><text x="70" y="330" font-family="Arial,sans-serif" font-size="14" fill="#52677d">Educational placeholder</text></svg>
