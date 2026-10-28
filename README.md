@@ -2,6 +2,14 @@
 
 An educational single-page portfolio layout with expandable resume, work and contact panels.
 
+## Captured preview
+
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="docs/screenshots/portfolio-poster.png" /><source type="image/webp" srcset="docs/screenshots/portfolio.webp" /><img src="docs/screenshots/portfolio.gif" width="100%" alt="Portfoilogrid — actual captured UI states" /></picture>
+
+Expandable Home, Resume and Work panels. John Doe and résumé entries are sample copy. Eight dead remote images were replaced with local SVG educational placeholders.
+
+[Reproduce this capture and view the static image](docs/PORTFOLIO-PREVIEW.md) · [Mobile capture](docs/screenshots/portfolio-mobile.png)
+
 ## Included UI
 
 - Profile/header layout and collapsible content sections.
